@@ -1,0 +1,1 @@
+Go to main and select Project Rainfall In Pakistan and then Download the Code file Rainfall.R and dataset file rainfall.csv in one folder then install the needed packages from CRAN and then run the code in R studio, Thank you
